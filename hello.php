@@ -16,7 +16,6 @@ function faltu($atom) {
     familyName("Kai Jim");
     familyName("Borge");
 
-     ;
 ?>
 
 </body>
