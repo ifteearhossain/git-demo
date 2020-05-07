@@ -12,6 +12,9 @@
     familyName("Stale");
     familyName("Kai Jim");
     familyName("Borge");
+
+     function SystemName($System) {
+    echo "$Name Gorila.<br>";
 ?>
 
 </body>
