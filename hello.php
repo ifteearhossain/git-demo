@@ -3,11 +3,18 @@
 <body>
 
 <?php
+    function familyName($fname) {
+    echo "$fname Refsnes.<br>";
+}
 
-    public function reltionByCategory() {
+function faltu($atom) {
+    echo "$Name Gorila.<br>"
 
-        return $this->hasMany('App\Category' , 'category_id' , 'id');
-    }
+    familyName("Jani");
+    familyName("Hege");
+    familyName("Stale");
+    familyName("Kai Jim");
+    familyName("Borge");
 
 ?>
 
